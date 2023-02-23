@@ -15,15 +15,15 @@ h1 {
   	font-weight: 600;
 }
 h2 {
-  	color: #blue;  
-  	font-size: 25px;
+  	color: #skyblue;  
+  	font-size: 24px;
   	font-weight: 400;
 }
 a {
  	text-decoration: inherit;
- 	color: #skyblue;
+ 	color: #blue;
  	font-weight:
- 	font-size: 14px;
+ 	font-size: 16px;
 }
 a:hover {
 	color: black;
